@@ -40,4 +40,5 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 ## Reaching out and contribution 
 if you would like to reach out about the project and request for features please do so and lets connect  mburumaina648@gmail.com. Contributions are welcome
 
-![BrunoHatTipBrunoFernandesGIF](https://github.com/MrMaina100/Portfolio-Template/assets/91890976/ed4daef5-8723-40fd-ad27-2b5731be91e3)
+![BrunoHatTipBrunoFernandesGIF (2)](https://github.com/MrMaina100/Portfolio-Template/assets/91890976/89beb64f-808f-41b2-8bd5-9c72ed87d51d)
+
