@@ -1,7 +1,8 @@
 type ProjectData = {
    Id:number,
    title: string,
-   description: string
+   description: string,
+   link:string
 }[]
 
 
@@ -11,17 +12,20 @@ export const ProjectData:ProjectData = [
    {
       Id: 1,
       title: 'Weather app',
-      description: 'A sleek and user-friendly weather app designed to keep you informed about current and upcoming weather conditions. With real-time data, interactive maps, and accurate forecasts, its your go-to companion for staying weather-ready '
+      description: 'A sleek and user-friendly weather app designed to keep you informed about current and upcoming weather conditions. With real-time data, interactive maps, and accurate forecasts, its your go-to companion for staying weather-ready ',
+      link:'https://github.com'
    },
    {
       Id: 2,
       title: 'Chat Bot',
-      description: 'A cutting-edge chatbot designed to streamline interactions, answer questions, and provide support with a natural and conversational touch. '
+      description: 'A cutting-edge chatbot designed to streamline interactions, answer questions, and provide support with a natural and conversational touch. ',
+      link:'https://github.com'
    },
    {
       Id: 3,
       title: 'Movie app',
-      description: 'Your all-in-one movie app for a world of cinematic exploration. With a vast library of films, personalized recommendations, and the latest in entertainment news, DiscoverCine is your ticket to an unforgettable movie experience '
+      description: 'Your all-in-one movie app for a world of cinematic exploration. With a vast library of films, personalized recommendations, and the latest in entertainment news, DiscoverCine is your ticket to an unforgettable movie experience ',
+      link:'https://github.com'
    },
    // {
    //    Id: 4,

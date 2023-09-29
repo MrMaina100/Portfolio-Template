@@ -11,7 +11,7 @@ const Projects = () => {
         
          <div className="bento-grids" key={projects.Id}>
             {/* add links to your project */}
-            <Link href='https://github.com/denniskigen/denniskigen.com' className='flex space-x-1'>
+            <Link href={projects.link} className='flex space-x-1'>
                <h2 className="underline">{projects.title}</h2>
                <ArrowTopRightIcon/>
                
