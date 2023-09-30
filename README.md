@@ -1,6 +1,7 @@
 # Developer Portfolio Template
 
 This is a free, open-source portfolio Template. Inspired by [read.cv](https://read.cv/) with a little bit of twist in desing. Built with nextjs and tailwind.
+![Screenshot 2023-09-30 at 12-58-30 John Doe](https://github.com/MrMaina100/Portfolio-Template/assets/91890976/7605d886-a244-42a2-9995-8927a146e119)
 
 # Features
 - Next.js 13
